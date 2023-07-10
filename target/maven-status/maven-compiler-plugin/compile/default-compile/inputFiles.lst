@@ -1,0 +1,13 @@
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/dao/ListDataDao.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/model/ProfessorPojo_.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/ejb/ProfessorService.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/dao/ListDataDaoImpl.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/jsf/ProfessorController.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/model/ProfessorPojo.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/config/FacesConfigAndServletContextListener.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/jsf/EmailValidator.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/dao/ProfessorDao.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/jsf/NewProfessorView.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/jsf/PhoneValidator.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/model/ProfessorPojoListener.java
+/Users/danielbarboza/Documents/_LAST_TERM/JAVA ENTERPRISE/JAVA_ASS_3/DataBank-JSF-JPA-Professor-Skeleton/src/main/java/databank/dao/ProfessorDaoImpl.java
